@@ -29,7 +29,7 @@ git clone https://github.com/liboysoft/typecho-lingonberry.git
 
 2. 在github页面 **clone or download** - **download ZIP**，解压到 **/YOUR_PATH/usr/themes/**
 
-3. [直接下载]()
+3. [直接下载](https://github.com/liboysoft/typecho-lingonberry/releases/latest)
 
 ## 说明
 
