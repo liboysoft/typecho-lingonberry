@@ -1,5 +1,7 @@
 # typecho-lingonberry
 
+![screenshot.png](http://liboy.net/usr/uploads/2018/04/2144610357.png)
+
 移植于 WordPress主题 [Lingonberry](https://wordpress.org/themes/lingonberry/)，根据typecho优化，添加主题配置等。
 
 从使用typecho到现在，一直用这个主题。现在打算迁移到hexo，所以重新整理把主题发出来。把一些功能写进外观配置，修复细微问题，全部中文字符使用官方 **_e** 函数输出等。
