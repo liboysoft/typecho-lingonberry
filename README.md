@@ -16,7 +16,7 @@
   - ICP备案号 配置
   - [random-quotes.js](https://github.com/liboysoft/random-quotes.js)，随机名言，后台外观设置可关闭
   - 友情链接，需编辑blogroll.php文件
-  - 添加文章feature图像，在文章编辑的自定义字段填写图片地址
+  - 添加文章feature图像，在文章编辑的自定义字段填写图片地址
 
 
 ## 安装
