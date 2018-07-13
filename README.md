@@ -1,6 +1,6 @@
 # typecho-lingonberry
 
-![screenshot.png](http://cdn.liboy.net/static/images/2018/04/2144610357.png)
+![screenshot.png](https://raw.githubusercontent.com/liboysoft/typecho-lingonberry/master/screenshot.png)
 
 移植于 WordPress主题 [Lingonberry](https://wordpress.org/themes/lingonberry/)，根据typecho优化，添加主题配置等。
 
